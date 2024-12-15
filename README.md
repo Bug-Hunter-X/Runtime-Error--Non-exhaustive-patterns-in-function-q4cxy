@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming: pattern matching failures. The `bug.hs` file contains code that causes a runtime error when it encounters a `Nothing` value. The `bugSolution.hs` file provides a corrected version using pattern matching or the `maybe` function to safely handle the `Maybe` type.
